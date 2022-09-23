@@ -1,0 +1,7 @@
+1 -- engine left
+2 -- engine right
+3 -- steering left
+4 -- steering right
+5 -- reverse left
+6 -- reverse right
+7 -- mode select --> SF down==AUTO UP==MANUAL
